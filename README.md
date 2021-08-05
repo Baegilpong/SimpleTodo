@@ -28,6 +28,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='add.gif' title='Adding Item Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='delete.gif' title='Removing Item Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='edit.gif' title='Editing Item Walkthrough' width='' alt='Video Walkthrough' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
